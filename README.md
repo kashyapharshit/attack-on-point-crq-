@@ -292,7 +292,3 @@ Contributions, issue reports, and improvement proposals are welcome. Before subm
 2. Keep secrets, tokens, private keys, `.env` files, and downloaded model files out of commits.
 3. Run the relevant backend, AI, and frontend validation commands.
 4. Document changes to API contracts, risk calculations, or evidence models.
-
-## License
-
-No license has been specified for this repository yet. Add an appropriate license before public distribution or reuse.
