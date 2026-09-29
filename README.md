@@ -1,8 +1,8 @@
 # Attack On Point
 
-## CYBERSI — Evidence-Driven Cyber Risk Intelligence
+## Evidence-Driven Cyber Risk Intelligence
 
-CYBERSI is an evidence-driven cyber risk intelligence platform that brings security telemetry, vulnerability findings, business context, financial exposure, control effectiveness, and governance evidence together in a role-based command center.
+Attack On Point is an evidence-driven cyber risk intelligence platform that brings security telemetry, vulnerability findings, business context, financial exposure, control effectiveness, and governance evidence together in a role-based command center.
 
 The platform helps security teams and business leaders move beyond raw scanner output toward explainable risk decisions:
 
